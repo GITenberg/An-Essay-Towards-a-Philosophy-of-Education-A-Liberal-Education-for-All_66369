@@ -1,0 +1,37 @@
+_repo: An-Essay-Towards-a-Philosophy-of-Education-A-Liberal-Education-for-All_66369
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Lyttelton, Edward, Hon.
+    birthdate: 1855
+    deathdate: 1942
+    gutenberg_agent_id: '53693'
+    url: http://www.gutenberg.org/2009/agents/53693
+    wikipedia: https://en.wikipedia.org/wiki/Edward_Lyttelton
+creator:
+  author:
+    agent_name: Mason, Charlotte M. (Charlotte Maria)
+    alias: Mason, Charlotte Maria Shaw
+    birthdate: 1842
+    deathdate: 1923
+    gutenberg_agent_id: '53773'
+    url: http://www.gutenberg.org/2009/agents/53773
+    wikipedia: https://en.wikipedia.org/wiki/Charlotte_Mason
+description: ''
+gutenberg_issued: '2021-09-23'
+identifiers:
+  gutenberg: '66369'
+  lccn: '25011176'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Education -- Philosophy'
+- !lcsh 'Education -- Great Britain'
+- !lcc 'LB'
+- !lcsh 'Parents National Educational Union (London, England)'
+- !lcsh 'Education'
+- GITenberg
+title: 'An Essay Towards a Philosophy of Education: A Liberal Education for All'
+url: http://www.gutenberg.org/ebooks/66369
